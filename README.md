@@ -26,34 +26,31 @@ This project demonstrates two graphical clock applications built using Python an
 
 ## 🖥️ How to Run the Project
 
-# 🖥️ How to Run the Project
+
 
 Check if Python is installed:
+
+
 python --version
 
-java
-Copy
-Edit
-
+---
 Install Tkinter (if not already installed):
+
+
 pip install tk
 
-lua
-Copy
-Edit
+---
 
 Run the digital clock:
+
 python digital_clock.py
 
-lua
-Copy
-Edit
+---
 
 Run the analog clock:
+
 python analog_clock.py
 
-Copy
-Edit
 
 
 ---
@@ -61,10 +58,10 @@ Edit
 ## 📷 Screenshots
 
 ### 🕒 Analog Clock
-![Analog Clock](screenshots/analog.clock.png)
+![Analog Clock](Analog clock.png)
 
 ### ⏱️ Digital Clock
-![Digital Clock](screenshots/digital.dash.clock.png)
+![Digital Clock](digital_clock.png)
 
 > Both `analog_clock.py` and `digital_clock.py` files are showcased in the screenshots above.
 
