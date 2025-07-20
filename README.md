@@ -25,8 +25,6 @@ This project demonstrates two graphical clock applications built using Python an
 
 ---
 
-
-
 ## 🖥️ How to Run the Project
 
 1. Ensure Python is installed:
@@ -50,11 +48,14 @@ bash
 Copy
 Edit
 python analog_clock.py
+📷 Screenshots
+🕒 Analog Clock
 
+⏱️ Digital Clock
 
+Both analog_clock.py and digital_clock.py files are showcased in the screenshots above.
 
 📌 Features
-
 Real-time clock updates every second
 
 Simple and clean user interface
@@ -63,16 +64,14 @@ Fully responsive analog clock with smooth hand movement
 
 Easy to understand and customize
 
----
+👨‍💻 Author
+Syeda Alia Samia
+GitHub: [Your GitHub Profile Link Here]
 
-## 📷 Screenshots
+markdown
+Copy
+Edit
 
-
-🕒 Analog Clock
-
-⏱️ Digital Clock
-
-Both Analog clock.png and digital_clock.png files are showcased in the screenshots above.
 
 
 
