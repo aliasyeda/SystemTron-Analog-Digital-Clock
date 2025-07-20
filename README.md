@@ -66,6 +66,7 @@ You can run each file to see the output on your screen.
 
 *(Screenshots not included in this version of the project. Please run the files to see their GUI output.)*
 
+---
 
 ## 📌 Features
 
