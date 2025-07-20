@@ -26,33 +26,35 @@ This project demonstrates two graphical clock applications built using Python an
 
 ## 🖥️ How to Run the Project
 
-1. Check if Python is installed:
+# 🖥️ How to Run the Project
+
+Check if Python is installed:
 python --version
 
 java
 Copy
 Edit
 
-2. Install Tkinter (if not already installed):
+Install Tkinter (if not already installed):
 pip install tk
 
 lua
 Copy
 Edit
 
-3. Run the digital clock:
+Run the digital clock:
 python digital_clock.py
 
 lua
 Copy
 Edit
 
-4. Run the analog clock:
+Run the analog clock:
 python analog_clock.py
 
-yaml
 Copy
 Edit
+
 
 ---
 
