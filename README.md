@@ -30,21 +30,23 @@ This project demonstrates two graphical clock applications built using Python an
 1. Ensure Python is installed:
 
    python --version
-Install Tkinter if not already available:
+---
 
+Install Tkinter if not already available:
 
 pip install tk
 
+---
 Run the digital clock:
-
 
 python digital_clock.py
 
+---
 Run the analog clock:
-
 
 python analog_clock.py
 
+---
 
 
 📌 Features
@@ -57,6 +59,7 @@ Fully responsive analog clock with smooth hand movement
 
 Easy to understand and customize
 
+---
 👨‍💻 Developed by
 **Syeda Alia Samia**  
 GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
