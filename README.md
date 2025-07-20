@@ -60,6 +60,12 @@ Fully responsive analog clock with smooth hand movement
 Easy to understand and customize
 
 ---
+
+## 📷 Screenshots
+
+sreenshorts are included in the repository
+
+---
 👨‍💻 Developed by
 **Syeda Alia Samia**  
 GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
