@@ -57,12 +57,15 @@ python analog_clock.py
 
 ## 📷 Screenshots
 
-### 🕒 Analog Clock
-![Analog Clock](analog.clock.png)
----
-### ⏱️ Digital Clock
-![Digital Clock](digital.clock.png)
----
+This project contains two Python GUI clock files:
+
+- **analog_clock.py** – A functional analog clock with moving hands
+- **digital_clock.py** – A digital clock that shows current time in HH:MM:SS format
+
+You can run each file to see the output on your screen.
+
+*(Screenshots not included in this version of the project. Please run the files to see their GUI output.)*
+
 
 ## 📌 Features
 
