@@ -1,4 +1,4 @@
-# systemTron-Analog_Digital_clock
+# SystemTron-Analog_Digital_clock
 # ⏰ Analog & Digital Clock using Python (Tkinter GUI)
 
 This project demonstrates two graphical clock applications built using Python and Tkinter:
@@ -58,7 +58,7 @@ python analog_clock.py
 ## 📷 Screenshots
 
 ### 🕒 Analog Clock
-![Analog Clock](Analog clock.png)
+![Analog Clock](Analog.clock.png)
 
 ### ⏱️ Digital Clock
 ![Digital Clock](digital_clock.png)
