@@ -1,5 +1,4 @@
-# SystemTron-Analog-Digital-Clock
-
+# systemTron-Analog_Digital_clock
 # ⏰ Analog & Digital Clock using Python (Tkinter GUI)
 
 This project demonstrates two graphical clock applications built using Python and Tkinter:
@@ -18,59 +17,68 @@ This project demonstrates two graphical clock applications built using Python an
 
 ## 🛠️ Technologies Used
 
-- **Language**: Python 3.x  
-- **GUI Library**: Tkinter  
-- **Platform**: Cross-platform (Windows/macOS/Linux)  
-- **Editor Used**: Visual Studio Code
+- Python 3.x  
+- Tkinter (GUI library)  
+- Cross-platform (Windows/macOS/Linux)  
+- Editor: Visual Studio Code
 
 ---
 
 ## 🖥️ How to Run the Project
 
- Ensure Python is installed:
+1. Check if Python is installed:
+python --version
 
-   python --version
+java
+Copy
+Edit
 
----
-
-Install Tkinter if not already available:
-
-
+2. Install Tkinter (if not already installed):
 pip install tk
 
----
-Run the digital clock:
+lua
+Copy
+Edit
 
-
+3. Run the digital clock:
 python digital_clock.py
 
----
+lua
+Copy
+Edit
 
-Run the analog clock:
-
+4. Run the analog clock:
 python analog_clock.py
 
----
-
-📷 Screenshots
-
-🕒 Analog Clock
-
-⏱️ Digital Clock
-
-Both analog_clock.py and digital_clock.py files are showcased in the screenshots above.
+yaml
+Copy
+Edit
 
 ---
 
-📌 Features
+## 📷 Screenshots
 
-Real-time clock updates every second
+### 🕒 Analog Clock
+![Analog Clock](screenshots/analog.clock.png)
 
-Simple and clean user interface
+### ⏱️ Digital Clock
+![Digital Clock](screenshots/digital.dash.clock.png)
 
-Fully responsive analog clock with smooth hand movement
+> Both `analog_clock.py` and `digital_clock.py` files are showcased in the screenshots above.
 
-Easy to understand and customize
+---
+
+## 📌 Features
+
+- Real-time clock updates every second
+- Clean user interface
+- Accurate analog hand movement
+- Simple, customizable code
+
+---
+
+
+
 
 
 
