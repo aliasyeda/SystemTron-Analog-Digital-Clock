@@ -26,29 +26,24 @@ This project demonstrates two graphical clock applications built using Python an
 ---
 
 
+
 ## 🖥️ How to Run the Project
 
 1. Ensure Python is installed:
    ```bash
    python --version
-
----
 Install Tkinter if not already available:
 
 bash
 Copy
 Edit
 pip install tk
-
----
 Run the digital clock:
 
 bash
 Copy
 Edit
 python digital_clock.py
-
----
 Run the analog clock:
 
 bash
@@ -56,8 +51,6 @@ Copy
 Edit
 python analog_clock.py
 
-
----
 
 
 📌 Features
