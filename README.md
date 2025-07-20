@@ -53,6 +53,7 @@ python analog_clock.py
 ---
 
 📷 Screenshots
+
 🕒 Analog Clock
 
 ⏱️ Digital Clock
