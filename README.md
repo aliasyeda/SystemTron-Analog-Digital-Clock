@@ -61,9 +61,7 @@ python analog_clock.py
 ![Analog Clock](analog.clock.png)
 
 ### ⏱️ Digital Clock
-![Digital Clock](digital_clock.png)
-
-> Both `analog_clock.py` and `digital_clock.py` files are showcased in the screenshots above.
+![Digital Clock](digital.dash.clock.png)
 
 ---
 
